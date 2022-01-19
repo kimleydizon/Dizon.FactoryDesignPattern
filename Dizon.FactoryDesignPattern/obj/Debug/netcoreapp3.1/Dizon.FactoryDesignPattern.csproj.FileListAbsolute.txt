@@ -1,0 +1,13 @@
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.exe
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.deps.json
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.runtimeconfig.json
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.FactoryDesignPattern\Dizon.FactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FactoryDesignPattern.genruntimeconfig.cache
